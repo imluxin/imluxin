@@ -97,3 +97,5 @@ if ($branch === 'refs/heads/develop' && $total_commits_count > 0) {
 ![工蜂平台添加回调hook](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/4/26/171b626ed27f7846~tplv-t2oaga2asx-image.image)
 
 7. 部署完成，当 git 有 push 更新时，目标服务器端将自动拉取；
+
+JueJin: https://juejin.cn/post/6844904138656989192 
